@@ -1,0 +1,13 @@
+{
+  "name": "samagri",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello world"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thunder-987/samagri_backend.git"
+  }
+}
